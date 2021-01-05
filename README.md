@@ -11,13 +11,17 @@ Install **$**:
  pip install tqdm
 ```
 # Run
-Run **$**:
+(Linux) Run **$**:
 ```bash
  python3 Splitter.py
 ```
-atau
+(Windows) Run **D:>**:
 ```bash
  python Splitter.py
 ```
 # Images
-<img
+<img src="images/D-TERR.jpg">
+
+<img src="images/D-TERR(2).jpg">
+
+<img src="images/D-TERR(3).jpg">
