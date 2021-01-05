@@ -1,11 +1,7 @@
-# bismillah
+
 # by d4v.id
 from tqdm import tqdm
 from colorama import Fore,Style
-
-def hi():
-    return("hilliw")
-
 def ket_file(ket):
     words = 0
     with open(ket, "r") as kata_file:
@@ -88,7 +84,7 @@ try:
 except ValueError:
     print(Fore.RED+"GAGAL data yang ada masukkan salah / tidak ada."+Style.RESET_ALL)
 except FileNotFoundError:
-    return hi()
+    print(Fore.RED+"GAGAL file tidak ditemukan(Not Found)"+Style.RESET_ALL)
 except IndexError:
     print(Fore.RED+"GAGAL data melebihi batas / tidak ada dalam file"+Style.RESET_ALL)
 
