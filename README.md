@@ -10,29 +10,35 @@ Fitur/Features:
 - Checker File Words,Sentences,lines
 
 # Install
-Linux **$_**:
+Linux **$**
 ```bash
  git clone https://github.com/d4v-id/D-TERR-Splitter
  pip install colorama
  pip install tqdm
 ```
-Windows **C:>_**:
+Windows **C:>**
 
 > Download ZIP > Ekstrak > go to folder
 
 # Run
-(Linux) Run **$_**:
+(Linux) Run **$**
 ```bash
  python3 Splitter.py
 ```
-(Windows) Run **C:>**:
+(Windows) Run **C:>**
 ```bash
  python Splitter.py
 ```
 # Images
 <img src="images/D-TERR.jpg">
 
+Split Character [ ; , :]
+
+
 <img src="images/D-TERR(2).jpg">
+
+
+Split Lines
 
 <img src="images/D-TERR(3).jpg">
 
