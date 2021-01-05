@@ -4,4 +4,20 @@ Pembagi file(List) yang berupa baris atau karakter [ ; , : ] hingga menjadi dua 
 <b>ENGLISH</b>
 Splitter file(List) is a line or character [ ; , : ] until it becomes two files and there are the results of lines, sentences, words that are in a file "List"
 
-# Description
+# Install
+Install **$**:
+```bash
+ pip install colorama
+ pip install tqdm
+```
+# Run
+Run **$**:
+```bash
+ python3 Splitter.py
+```
+atau
+```bash
+ python Splitter.py
+```
+# Images
+<img
