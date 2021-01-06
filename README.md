@@ -9,6 +9,8 @@ Fitur/Features:
 - Split [ ; , ;] Character
 - Checker File Words,Sentences,lines
 
+<img src="images/D-TERR.jpg">
+
 # Install
 Linux **$**
 ```bash
@@ -30,8 +32,6 @@ Windows **C:>**
  python Splitter.py
 ```
 # Images
-<img src="images/D-TERR.jpg">
-
 Split Character [ ; , :]
 
 
