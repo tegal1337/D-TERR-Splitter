@@ -7,40 +7,28 @@ Fitur/Features:
 - Split (; : , | #) Character
 - Checker File Words,Sentences,lines
 
-<img src="images/D-TERR.jpg">
+<img src="images/d-TERR(0).jpg">
 
 # Install
-Linux **$**
+Pip **$**
 ```bash
- git clone https://github.com/d4v-id/D-TERR-Splitter
  pip install colorama
  pip install tqdm
 ```
-Windows **C:>**
-
-> Download ZIP > Ekstrak > go to folder
 
 # Run
-(Linux) Run **$**
-```bash
- python3 Splitter.py
-```
-(Windows) Run **C:>**
-```bash
- python Splitter.py
-```
+Python3 (Version)
+
 # Images
-Split Character [ ; , :]
+Split Character (; : , | #)
 
 
-<img src="images/D-TERR(2).jpg">
+<img src="images/d-TERR(1).jpg">
 
 
 Split Lines
 
-<img src="images/D-TERR(3).jpg">
+<img src="images/d-TERR(2).jpg">
 
 # Support/Contact
-https://saweria.co/vedd (Donasi/Donate)
-
 d4vbusiness@gmail.com (Gmail)
